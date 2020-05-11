@@ -1,0 +1,1 @@
+This folder is just to store trained model weights like tfidf and vector representations of training, testing set

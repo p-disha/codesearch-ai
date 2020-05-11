@@ -1,0 +1,1 @@
+This folder is just to store results of https://github.com/github/CodeSearchNet/blob/master/resources/queries.csv which was downloaded from Github
